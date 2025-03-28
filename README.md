@@ -1,27 +1,13 @@
-# Actuarial-Projects
-Portafolio de proyectos actuariales en Python
 
+# Portafolio de Proyectos Actuariales 📊📈  
 
+Bienvenido a mi portafolio de proyectos actuariales. Aquí encontrarás análisis de datos aplicados a la ciencia actuarial, utilizando **Python, Power BI y estadística avanzada**.  
 
+## 📌 Proyectos  
 
-# 📊 Análisis de Usuarios con Python y Power BI.
+1. **Análisis de Usuarios con Python y Power BI.**  
+   - 📊 Procesamiento de datos con Python  
+   - 📊 Dashboard interactivo en Power BI    
 
-Este proyecto analiza la evolución de los usuarios desde enero de 2021 hasta diciembre de 2024 usando **Python** y **Power BI**.  
-
-## 📌 Contenido:  
-
-🔹 **Python**: Limpieza y análisis de datos.  
-🔹 **Power BI**: Visualización de datos y dashboard interactivo.  
-🔹 **Base de Datos**: Archivos CSV y Excel utilizados.  
-🔹 **Presentación**: Resumen del análisis en PowerPoint.  
-
-## 📷 Dashboard Principal  
-![Dashboard](PowerBI/Informe_Usuarios_202412.png)  
-
-## ⚙️ Cómo usar este proyecto  
-1. Descarga los archivos desde la carpeta correspondiente.  
-2. Ejecuta el código de Python en Jupyter Notebook o cualquier IDE.
-3. Abre el archivo `.pbix` en Power BI.  
-4. Consulta la presentación en PowerPoint para ver los insights clave.  
-
-📌 **Desarrollado por:** Diego Pérez 
+---
+🚀 **Conéctate conmigo en LinkedIn** → https://www.linkedin.com/in/diego-perez-gomez
