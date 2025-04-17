@@ -10,7 +10,7 @@ Este proyecto analiza la evolución de los ingresos desde enero de 2021 hasta di
 🔹 **Presentación**: Resumen del análisis en PowerPoint.  
 
 ## 📷 Dashboard Principal  
-![Dashboard](PowerBI/Informe_Usuarios_202412.png)  
+![Dashboard](PowerBI/Informe_Ingresos_202412.png)  
 
 ## ⚙️ Cómo usar este proyecto  
 1. Descarga los archivos desde la carpeta correspondiente.  
